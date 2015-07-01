@@ -1,0 +1,26 @@
+{
+  "name": "theme-style",
+  "version": "0.0.1",
+  "authors": [
+    "Rui Monteiro"
+  ],
+  "description": "Polymer element to shim data binding to CSS on browsers with no native support.",
+  "keywords": [
+    "Polymer",
+    "web-components"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "harmony/src",
+    "README.md",
+    ".gitignore",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#master"
+  }
+}
